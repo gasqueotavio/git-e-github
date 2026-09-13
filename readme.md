@@ -29,4 +29,4 @@ O script lê o arquivo `dados.csv` e imprime o resumo no terminal.
 
 ## Autor
 
-Projeto desenvolvido como parte da disciplina de Design Profissional.
+Projeto desenvolvido por Otávio Scamatti Gasque
