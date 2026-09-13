@@ -4,7 +4,7 @@ Repositório criado para aplicar na prática os conceitos aprendidos na trilha *
 
 ## Objetivo
 
-Este projeto é um script simples de automação que lê dados de vendas de um arquivo CSV e gera um resumo com total de vendas, média por item e o produto mais vendido — evitando o cálculo manual desses dados.
+Este projeto é um script simples de automação que lê dados de vendas de um arquivo CSV e gera um resumo com total de vendas, média por item e o produto mais vendido, evitando o cálculo manual desses dados.
 
 ## Como executar
 
